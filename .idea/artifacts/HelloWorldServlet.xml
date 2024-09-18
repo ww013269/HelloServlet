@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="exploded-war" name="HelloWorldServlet">
-    <output-path>$PROJECT_DIR$/out/artifacts/HelloWorldServlet</output-path>
-    <root id="root">
-      <element id="module-output" name="HelloWorldServlet" />
-      <element id="dir-copy" path="$PROJECT_DIR$/src/main/webapp" />
-    </root>
-  </artifact>
-</component>
