@@ -15,9 +15,3 @@ HelloServlet 是一個基於 Java Servlet 的簡單 Web 應用程式，使用 Ap
 - Java
 - Apache Tomcat
 - Maven
-
-## 使用說明
-
-1. 在本地clone專案：
-   ```bash````bash
-   git clone https://github.com/your-username/HelloServlet.git
